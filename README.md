@@ -1,2 +1,2 @@
-# textpro
+# textpro (WIP)
 lightweight text editor
